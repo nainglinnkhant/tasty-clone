@@ -1,0 +1,16 @@
+cook_time_minutes
+created_at
+credits
+description
+id
+instructions
+name
+num_servings
+nutrition
+original_video_url
+sections
+thumbnail_url
+tags
+topics
+total_time_minutes
+user_ratings
